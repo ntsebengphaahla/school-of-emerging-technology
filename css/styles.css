@@ -80,7 +80,7 @@ nav.scrolled a {color: var(--darkblue);}
     width: 100%;
     left: 0;
     top: 0;
-    background: #000a1799 !important
+    background: linear-gradient(270deg, #000a17db 31%, transparent);
 }
 
 
